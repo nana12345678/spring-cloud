@@ -8,6 +8,8 @@ public class SpringCloudJdbcManageApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudJdbcManageApplication.class, args);
+        System.out.println("这是demand_insert的修改内容");
+        System.out.println("这是insert的第二次修改");
     }
 
 }
