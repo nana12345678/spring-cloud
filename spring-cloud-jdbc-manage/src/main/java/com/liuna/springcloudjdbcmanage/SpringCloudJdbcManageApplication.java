@@ -10,6 +10,8 @@ public class SpringCloudJdbcManageApplication {
         SpringApplication.run(SpringCloudJdbcManageApplication.class, args);
         System.out.println("这是demand_insert的修改内容");
         System.out.println("这是insert的第二次修改");
+
+        System.out.println("feature/hamei_test_demand这是insert的第三次修改");
     }
 
 }
