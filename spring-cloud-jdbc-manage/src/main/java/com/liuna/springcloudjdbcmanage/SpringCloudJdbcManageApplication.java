@@ -14,6 +14,7 @@ public class SpringCloudJdbcManageApplication {
         System.out.println("feature/hamei_test_demand这是insert的第三次修改");
 
         System.out.println("hamei_update_1 commit 第一次");
+        System.out.println("hamei_update_1 commit 第二次");
     }
 
 }
