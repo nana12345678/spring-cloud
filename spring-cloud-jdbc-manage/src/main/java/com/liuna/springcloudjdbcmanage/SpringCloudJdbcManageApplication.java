@@ -23,6 +23,9 @@ public class SpringCloudJdbcManageApplication {
         System.out.println("hamei_update_1 commit 第5⃣五次");
 
         System.out.println("hamei_update_1 commit 第六次");
+
+
+        System.out.println("hamei_update_1 commit 第七次");
     }
 
 }
