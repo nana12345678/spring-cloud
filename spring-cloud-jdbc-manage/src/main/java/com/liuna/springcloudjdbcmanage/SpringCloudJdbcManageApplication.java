@@ -25,6 +25,11 @@ public class SpringCloudJdbcManageApplication {
         System.out.println("feature/hamei_modify_two_fenzhi修改");
         System.out.println("feature/hamei_modify_two_fenzhi修改");
         System.out.println("feature/hamei_modify_two_fenzhi修改");
+
+        System.out.println("feature/hamei_modify_thrid_fenzhi修改");
+        System.out.println("feature/hamei_modify_thrid_fenzhi修改");
+        System.out.println("feature/hamei_modify_thrid_fenzhi修改");
+        System.out.println("feature/hamei_modify_thrid_fenzhi修改");
     }
 
 }
